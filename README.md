@@ -9,20 +9,20 @@ In this assignment you will author an Apache Airflow DAG that will:
 - Extract data from a csv file
 - Extract data from a tsv file
 - Extract data from a fixed width file
-Transform the data
-Load the transformed data into the staging area
+- Transform the data
+- Load the transformed data into the staging area
 
 # Objectives (second part)
 In this assignment you will create a streaming data pipe by performing these steps:
 
-Start a MySQL Database server.
-Create a table to hold the toll data.
-Start the Kafka server.
-Install the Kafka python driver.
-Install the MySQL python driver.
-Create a topic named toll in kafka.
-Download streaming data generator program.
-Customize the generator program to steam to toll topic.
-Download and customise streaming data consumer.
-Customize the consumer program to write into a MySQL database table.
-Verify that streamed data is being collected in the database table.
+- Start a MySQL Database server.
+- Create a table to hold the toll data.
+- Start the Kafka server.
+- Install the Kafka python driver.
+- Install the MySQL python driver.
+- Create a topic named toll in kafka.
+- Download streaming data generator program.
+- Customize the generator program to steam to toll topic.
+- Download and customise streaming data consumer.
+- Customize the consumer program to write into a MySQL database table.
+- Verify that streamed data is being collected in the database table.
