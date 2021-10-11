@@ -6,9 +6,9 @@ You are a data engineer at a data analytics consulting company. You have been as
 # Objectives (first part)
 In this assignment you will author an Apache Airflow DAG that will:
 
-Extract data from a csv file
-Extract data from a tsv file
-Extract data from a fixed width file
+- Extract data from a csv file
+- Extract data from a tsv file
+- Extract data from a fixed width file
 Transform the data
 Load the transformed data into the staging area
 
